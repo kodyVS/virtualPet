@@ -32,7 +32,6 @@
 <script>
 const bcrypt = window.require("bcryptjs");
 const electron = window.require("electron");
-//import { remote } from 'electron'
 export default {
   data: function() {
     return {
@@ -217,7 +216,7 @@ export default {
       clearTimeout(this.sleepy1Timer, this.sleepy2Timer);
       this.sleepy2Timer = setTimeout(() => {
         console.log("Night Night");
-        //electron.ipcRenderer.send('sleepyTime')
+        electron.ipcRenderer.send("sleepyTime");
       }, this.sleepy2Time);
     },
 
