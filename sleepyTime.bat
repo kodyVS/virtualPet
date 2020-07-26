@@ -1,0 +1,1 @@
+RUNDLL32.EXE powrprof.dll,SetSuspendState 0,1,0
