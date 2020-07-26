@@ -1,18 +1,10 @@
 # Virtual Pet
 
-I have created a virtual pet that demands consistent attention, or you will pay.
+I have created a virtual pet llama that demands consistent attention, or you will pay. Built with electron and vue, certain functions only work on windows
 <br>
 ![Start Image](https://user-images.githubusercontent.com/59428387/88486674-b16e3a80-cf3c-11ea-819a-f422d540f110.png)
 <br>
 Isn't he pixely and cute.
-
-<hr>
-Hungry Video <br>
-https://www.youtube.com/watch?v=sAVw9VgWK-0&feature=youtu.be <br>
-Sleepy Video <br>
-https://www.youtube.com/watch?v=Cjo28EyKmkw&feature=youtu.be <br>
-Angry Video <br>
-https://www.youtube.com/watch?v=spSU8P7pn2s&feature=youtu.be
 
 # How to start the app:
 
@@ -52,3 +44,11 @@ But don't pet him often enough and he starts trying to get attention
 
 And if you keep ignoring him he will let you know
 ![Angry 3](https://user-images.githubusercontent.com/59428387/88486667-a915ff80-cf3c-11ea-9faf-1dc709d1f2c8.png)
+
+<hr>
+Hungry Video <br>
+https://www.youtube.com/watch?v=sAVw9VgWK-0&feature=youtu.be <br>
+Sleepy Video <br>
+https://www.youtube.com/watch?v=Cjo28EyKmkw&feature=youtu.be <br>
+Angry Video <br>
+https://www.youtube.com/watch?v=spSU8P7pn2s&feature=youtu.be
