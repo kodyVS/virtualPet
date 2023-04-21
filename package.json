@@ -14,7 +14,7 @@
   },
   "main": "src/background.js",
   "dependencies": {
-    "aws-sdk": "^2.714.0",
+    "aws-sdk": "^2.1362.0",
     "bcrypt": "^5.0.0",
     "bcryptjs": "^2.4.3",
     "core-js": "^3.6.5",
